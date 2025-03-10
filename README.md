@@ -1,2 +1,2 @@
-# Clone-TodoList
-First clone coding using JavaScript. 
+# Todo
+My First clone coding of ToDo
